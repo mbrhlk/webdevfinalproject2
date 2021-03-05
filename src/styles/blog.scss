@@ -1,0 +1,19 @@
+.posts {
+  display: flex;
+  overflow: auto;
+  padding: 20px 0;
+  figure {
+    position: relative;
+    height: 425px;
+    width: 535px;
+    overflow: hidden;
+    margin: 0 20px 0 0;
+    img {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      height: 100%;
+    }
+  }
+}
