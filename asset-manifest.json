@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/webdevfinalproject2/static/css/main.2592275a.chunk.css",
+    "main.js": "/webdevfinalproject2/static/js/main.fae55c8b.chunk.js",
+    "main.js.map": "/webdevfinalproject2/static/js/main.fae55c8b.chunk.js.map",
+    "runtime-main.js": "/webdevfinalproject2/static/js/runtime-main.a32e3f5a.js",
+    "runtime-main.js.map": "/webdevfinalproject2/static/js/runtime-main.a32e3f5a.js.map",
+    "static/css/2.947944ad.chunk.css": "/webdevfinalproject2/static/css/2.947944ad.chunk.css",
+    "static/js/2.07bc56b3.chunk.js": "/webdevfinalproject2/static/js/2.07bc56b3.chunk.js",
+    "static/js/2.07bc56b3.chunk.js.map": "/webdevfinalproject2/static/js/2.07bc56b3.chunk.js.map",
+    "static/js/3.b75c2503.chunk.js": "/webdevfinalproject2/static/js/3.b75c2503.chunk.js",
+    "static/js/3.b75c2503.chunk.js.map": "/webdevfinalproject2/static/js/3.b75c2503.chunk.js.map",
+    "index.html": "/webdevfinalproject2/index.html",
+    "static/css/2.947944ad.chunk.css.map": "/webdevfinalproject2/static/css/2.947944ad.chunk.css.map",
+    "static/css/main.2592275a.chunk.css.map": "/webdevfinalproject2/static/css/main.2592275a.chunk.css.map",
+    "static/js/2.07bc56b3.chunk.js.LICENSE.txt": "/webdevfinalproject2/static/js/2.07bc56b3.chunk.js.LICENSE.txt",
+    "static/media/astronomy.34dfc45c.jpg": "/webdevfinalproject2/static/media/astronomy.34dfc45c.jpg",
+    "static/media/beach.711e0f70.jpg": "/webdevfinalproject2/static/media/beach.711e0f70.jpg",
+    "static/media/duck.6f54e64b.jpg": "/webdevfinalproject2/static/media/duck.6f54e64b.jpg",
+    "static/media/filter.6f944f8a.jpg": "/webdevfinalproject2/static/media/filter.6f944f8a.jpg",
+    "static/media/flower.1e161386.jpg": "/webdevfinalproject2/static/media/flower.1e161386.jpg",
+    "static/media/lens.2bc97574.jpg": "/webdevfinalproject2/static/media/lens.2bc97574.jpg",
+    "static/media/index.css": "/webdevfinalproject2/static/media/merriweather-latin-900italic.b7901d85.woff2",
+    "static/media/rocks.a9e61113.jpg": "/webdevfinalproject2/static/media/rocks.a9e61113.jpg",
+    "static/media/squirrel.16b0a329.jpg": "/webdevfinalproject2/static/media/squirrel.16b0a329.jpg",
+    "static/media/thumb_beach.2f8cc8c3.png": "/webdevfinalproject2/static/media/thumb_beach.2f8cc8c3.png",
+    "static/media/thumb_duck.eedf088f.png": "/webdevfinalproject2/static/media/thumb_duck.eedf088f.png",
+    "static/media/thumb_flower.885a9c35.png": "/webdevfinalproject2/static/media/thumb_flower.885a9c35.png",
+    "static/media/thumb_squirrel.9674ff45.png": "/webdevfinalproject2/static/media/thumb_squirrel.9674ff45.png",
+    "static/media/thumb_tower.853df067.png": "/webdevfinalproject2/static/media/thumb_tower.853df067.png",
+    "static/media/tower.67acdb3d.jpg": "/webdevfinalproject2/static/media/tower.67acdb3d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a32e3f5a.js",
+    "static/css/2.947944ad.chunk.css",
+    "static/js/2.07bc56b3.chunk.js",
+    "static/css/main.2592275a.chunk.css",
+    "static/js/main.fae55c8b.chunk.js"
+  ]
+}
